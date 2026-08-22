@@ -1,0 +1,15 @@
+{
+    "customerSegmentsAssignedDate": "Assigned date",
+    "customerSegmentsCode": "Code",
+    "customerSegmentsCustomer": "Customer",
+    "customerSegmentsCustomerSegments": "Customer segments",
+    "customerSegmentsDescription": "Description",
+    "customerSegmentsEndDate": "End date",
+    "customerSegmentsExpiryDate": "Expiry date",
+    "customerSegmentsMemberships": "Segment memberships",
+    "customerSegmentsRule": "Rule",
+    "customerSegmentsSegment": "Customer segment",
+    "customerSegmentsSegments": "Customer segments",
+    "customerSegmentsStartDate": "Start date",
+    "customerSegmentsState": "State"
+}

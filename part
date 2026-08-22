@@ -1,0 +1,35 @@
+segmentConditionOperator options
+    equals
+    notEquals
+    greaterThan
+    greaterThanOrEquals
+    lessThan
+    lessThanOrEquals
+    contains
+    in
+customerSegment
+    title
+    code
+    rule optional
+    startDate optional
+    endDate optional
+    state
+    description optional
+    unique code
+segmentCondition
+    customerSegment
+    property
+    segmentConditionOperator
+    value
+segmentMembership
+    customerSegment
+    customer
+    assignedDate
+    expiryDate optional
+    source optional
+    unique customerSegment customer
+segmentSnapshot
+    customerSegment
+    snapshotDate
+    customersCount integer
+    unique customerSegment snapshotDate

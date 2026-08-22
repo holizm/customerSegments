@@ -1,0 +1,15 @@
+{
+    "customerSegmentsAssignedDate": "تاریخ تخصیص",
+    "customerSegmentsCode": "کد",
+    "customerSegmentsCustomer": "مشتری",
+    "customerSegmentsCustomerSegments": "بخش‌بندی مشتریان",
+    "customerSegmentsDescription": "توضیحات",
+    "customerSegmentsEndDate": "تاریخ پایان",
+    "customerSegmentsExpiryDate": "تاریخ انقضا",
+    "customerSegmentsMemberships": "اعضای بخش‌ها",
+    "customerSegmentsRule": "قاعده",
+    "customerSegmentsSegment": "بخش مشتریان",
+    "customerSegmentsSegments": "بخش‌های مشتریان",
+    "customerSegmentsStartDate": "تاریخ شروع",
+    "customerSegmentsState": "مرحله"
+}
