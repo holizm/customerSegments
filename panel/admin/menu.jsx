@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'groups',
+        path: '/customerSegments',
         title: 'customerSegmentsCustomerSegments',
     },
 ]
