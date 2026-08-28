@@ -1,0 +1,4 @@
+[
+    { $match: { segmentConditionOperator } },
+    { $count: 'count' },
+]
