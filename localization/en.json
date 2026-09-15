@@ -1,0 +1,20 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "assignedDate": "Assigned date",
+        "code": "Code",
+        "customer": "Customer",
+        "customerSegments": "Customer segments",
+        "description": "Description",
+        "endDate": "End date",
+        "expiryDate": "Expiry date",
+        "memberships": "Segment memberships",
+        "rule": "Rule",
+        "segment": "Customer segment",
+        "segments": "Customer segments",
+        "startDate": "Start date",
+        "state": "State"
+    },
+    "site": {}
+}
