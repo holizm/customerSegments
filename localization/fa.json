@@ -1,17 +1,12 @@
 {
     "common": {
-        "code": "کد",
         "customer": "مشتری",
         "customerSegments": "بخش‌بندی مشتریان",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "expiryDate": "تاریخ انقضا",
         "memberships": "اعضای بخش‌ها",
         "rule": "قاعده",
         "segment": "بخش مشتریان",
-        "segments": "بخش‌های مشتریان",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله"
+        "segments": "بخش‌های مشتریان"
     },
     "panel": {
         "assignedDate": "تاریخ تخصیص"

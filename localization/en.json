@@ -1,16 +1,11 @@
 {
     "common": {
         "customerSegments": "Customer segments",
-        "code": "Code",
         "customer": "Customer",
-        "description": "Description",
-        "endDate": "End date",
         "expiryDate": "Expiry date",
         "memberships": "Segment memberships",
         "rule": "Rule",
-        "segment": "Customer segment",
-        "startDate": "Start date",
-        "state": "State"
+        "segment": "Customer segment"
     },
     "panel": {
         "assignedDate": "Assigned date"
