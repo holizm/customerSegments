@@ -8,7 +8,7 @@ const headers = <>
     <th start>customerSegmentsSegment</th>
     <th>customerSegmentsCode</th>
     <th>customerSegmentsRule</th>
-    <th>customerSegmentsState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
