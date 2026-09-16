@@ -1,8 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "assignedDate": "تاریخ تخصیص",
+    "common": {
         "code": "کد",
         "customer": "مشتری",
         "customerSegments": "بخش‌بندی مشتریان",
@@ -16,5 +13,7 @@
         "startDate": "تاریخ شروع",
         "state": "مرحله"
     },
-    "site": {}
+    "panel": {
+        "assignedDate": "تاریخ تخصیص"
+    }
 }
