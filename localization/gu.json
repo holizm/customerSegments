@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "ગ્રાહક વિભાગો",
+        "customer": "ગ્રાહક",
+        "expiryDate": "સમાપ્તિ તારીખ",
+        "memberships": "વિભાગ સભ્યતાઓ",
+        "rule": "નિયમ",
+        "segment": "ગ્રાહક વિભાગ"
+    },
+    "panel": {
+        "assignedDate": "સોંપણી તારીખ"
+    }
+}

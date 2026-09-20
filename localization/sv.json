@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "Kundsegment",
+        "customer": "Kund",
+        "expiryDate": "Förfallodatum",
+        "memberships": "Segmentmedlemskap",
+        "rule": "Regel",
+        "segment": "Kundsegment"
+    },
+    "panel": {
+        "assignedDate": "Tilldelningsdatum"
+    }
+}

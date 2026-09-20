@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "กลุ่มลูกค้า",
+        "customer": "ลูกค้า",
+        "expiryDate": "วันที่หมดอายุ",
+        "memberships": "การเป็นสมาชิกกลุ่ม",
+        "rule": "กฎ",
+        "segment": "กลุ่มลูกค้า"
+    },
+    "panel": {
+        "assignedDate": "วันที่กำหนด"
+    }
+}

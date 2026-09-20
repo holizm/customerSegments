@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "Müşteri segmentleri",
+        "customer": "Müşteri",
+        "expiryDate": "Son geçerlilik tarihi",
+        "memberships": "Segment üyelikleri",
+        "rule": "Kural",
+        "segment": "Müşteri segmenti"
+    },
+    "panel": {
+        "assignedDate": "Atanma tarihi"
+    }
+}

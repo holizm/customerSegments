@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "顧客セグメント",
+        "customer": "顧客",
+        "expiryDate": "有効期限",
+        "memberships": "セグメント所属",
+        "rule": "ルール",
+        "segment": "顧客セグメント"
+    },
+    "panel": {
+        "assignedDate": "割り当て日"
+    }
+}

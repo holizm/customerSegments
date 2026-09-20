@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "Segments de clientèle",
+        "customer": "Client",
+        "expiryDate": "Date d’expiration",
+        "memberships": "Appartenances aux segments",
+        "rule": "Règle",
+        "segment": "Segment de clientèle"
+    },
+    "panel": {
+        "assignedDate": "Date d’attribution"
+    }
+}

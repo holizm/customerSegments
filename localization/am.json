@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "የደንበኛ ክፍሎች",
+        "customer": "ደንበኛ",
+        "expiryDate": "የማብቂያ ቀን",
+        "memberships": "የክፍል አባልነቶች",
+        "rule": "ደንብ",
+        "segment": "የደንበኛ ክፍል"
+    },
+    "panel": {
+        "assignedDate": "የተመደበበት ቀን"
+    }
+}

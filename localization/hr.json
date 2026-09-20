@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "Segmenti kupaca",
+        "customer": "Kupac",
+        "expiryDate": "Datum isteka",
+        "memberships": "Članstva u segmentima",
+        "rule": "Pravilo",
+        "segment": "Segment kupaca"
+    },
+    "panel": {
+        "assignedDate": "Datum dodjele"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "Сегменты клиентов",
+        "customer": "Клиент",
+        "expiryDate": "Дата окончания",
+        "memberships": "Участие в сегментах",
+        "rule": "Правило",
+        "segment": "Сегмент клиентов"
+    },
+    "panel": {
+        "assignedDate": "Дата назначения"
+    }
+}

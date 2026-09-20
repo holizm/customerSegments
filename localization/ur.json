@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "گاہکوں کے طبقات",
+        "customer": "گاہک",
+        "expiryDate": "میعاد ختم ہونے کی تاریخ",
+        "memberships": "طبقاتی رکنیتیں",
+        "rule": "قاعدہ",
+        "segment": "گاہکوں کا طبقہ"
+    },
+    "panel": {
+        "assignedDate": "تفویض کی تاریخ"
+    }
+}

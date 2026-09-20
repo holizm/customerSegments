@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "ਗਾਹਕ ਵਰਗ",
+        "customer": "ਗਾਹਕ",
+        "expiryDate": "ਮਿਆਦ ਪੁੱਗਣ ਦੀ ਮਿਤੀ",
+        "memberships": "ਵਰਗ ਮੈਂਬਰਸ਼ਿਪਾਂ",
+        "rule": "ਨਿਯਮ",
+        "segment": "ਗਾਹਕ ਵਰਗ"
+    },
+    "panel": {
+        "assignedDate": "ਸੌਂਪਣ ਦੀ ਮਿਤੀ"
+    }
+}

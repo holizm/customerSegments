@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "ग्राहक खंड",
+        "customer": "ग्राहक",
+        "expiryDate": "समाप्ति तिथि",
+        "memberships": "खंड सदस्यताएँ",
+        "rule": "नियम",
+        "segment": "ग्राहक खंड"
+    },
+    "panel": {
+        "assignedDate": "असाइन करने की तिथि"
+    }
+}

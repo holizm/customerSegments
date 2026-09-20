@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "Τμήματα πελατών",
+        "customer": "Πελάτης",
+        "expiryDate": "Ημερομηνία λήξης",
+        "memberships": "Συμμετοχές σε τμήματα",
+        "rule": "Κανόνας",
+        "segment": "Τμήμα πελατών"
+    },
+    "panel": {
+        "assignedDate": "Ημερομηνία ανάθεσης"
+    }
+}

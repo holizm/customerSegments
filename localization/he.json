@@ -1,0 +1,13 @@
+{
+    "common": {
+        "customerSegments": "פלחי לקוחות",
+        "customer": "לקוח",
+        "expiryDate": "תאריך תפוגה",
+        "memberships": "חברויות בפלחים",
+        "rule": "כלל",
+        "segment": "פלח לקוחות"
+    },
+    "panel": {
+        "assignedDate": "תאריך שיוך"
+    }
+}
