@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "ഉപഭോക്തൃ വിഭാഗങ്ങൾ",
-        "customer": "ഉപഭോക്താവ്",
         "expiryDate": "കാലഹരണ തീയതി",
         "memberships": "വിഭാഗ അംഗത്വങ്ങൾ",
         "rule": "നിയമം",

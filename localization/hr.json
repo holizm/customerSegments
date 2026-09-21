@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Segmenti kupaca",
-        "customer": "Kupac",
         "expiryDate": "Datum isteka",
         "memberships": "Članstva u segmentima",
         "rule": "Pravilo",

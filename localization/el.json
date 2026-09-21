@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Τμήματα πελατών",
-        "customer": "Πελάτης",
         "expiryDate": "Ημερομηνία λήξης",
         "memberships": "Συμμετοχές σε τμήματα",
         "rule": "Κανόνας",

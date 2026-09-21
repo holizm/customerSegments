@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Asiakassegmentit",
-        "customer": "Asiakas",
         "expiryDate": "Voimassaolon päättymispäivä",
         "memberships": "Segmenttijäsenyydet",
         "rule": "Sääntö",

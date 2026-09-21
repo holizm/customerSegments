@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "የደንበኛ ክፍሎች",
-        "customer": "ደንበኛ",
         "expiryDate": "የማብቂያ ቀን",
         "memberships": "የክፍል አባልነቶች",
         "rule": "ደንብ",

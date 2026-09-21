@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "פלחי לקוחות",
-        "customer": "לקוח",
         "expiryDate": "תאריך תפוגה",
         "memberships": "חברויות בפלחים",
         "rule": "כלל",

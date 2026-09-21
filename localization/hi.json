@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "ग्राहक खंड",
-        "customer": "ग्राहक",
         "expiryDate": "समाप्ति तिथि",
         "memberships": "खंड सदस्यताएँ",
         "rule": "नियम",

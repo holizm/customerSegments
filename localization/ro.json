@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Segmente de clienți",
-        "customer": "Client",
         "expiryDate": "Data expirării",
         "memberships": "Apartenențe la segmente",
         "rule": "Regulă",

@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "شرائح العملاء",
-        "customer": "العميل",
         "expiryDate": "تاريخ الانتهاء",
         "memberships": "عضويات الشرائح",
         "rule": "القاعدة",

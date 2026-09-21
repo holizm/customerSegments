@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Клиентски сегменти",
-        "customer": "Клиент",
         "expiryDate": "Дата на изтичане",
         "memberships": "Членства в сегменти",
         "rule": "Правило",

@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Mga segment ng customer",
-        "customer": "Customer",
         "expiryDate": "Petsa ng pag-expire",
         "memberships": "Mga pagiging kasapi sa segment",
         "rule": "Panuntunan",

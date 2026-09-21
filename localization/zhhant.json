@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "客戶細分",
-        "customer": "客戶",
         "expiryDate": "到期日期",
         "memberships": "細分成員關係",
         "rule": "規則",

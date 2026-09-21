@@ -5,7 +5,7 @@ import {
 import Form from './form'
 
 const headers = <>
-    <th start>customerSegmentsCustomer</th>
+    <th start>coreCustomer</th>
     <th>customerSegmentsSegment</th>
     <th>customerSegmentsAssignedDate</th>
     <th>customerSegmentsExpiryDate</th>

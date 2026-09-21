@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Kliëntsegmente",
-        "customer": "Kliënt",
         "expiryDate": "Vervaldatum",
         "memberships": "Segmentlidmaatskappe",
         "rule": "Reël",

@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Kundesegmenter",
-        "customer": "Kunde",
         "expiryDate": "Udløbsdato",
         "memberships": "Segmentmedlemskaber",
         "rule": "Regel",

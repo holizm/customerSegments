@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Phân khúc khách hàng",
-        "customer": "Khách hàng",
         "expiryDate": "Ngày hết hạn",
         "memberships": "Tư cách thành viên phân khúc",
         "rule": "Quy tắc",

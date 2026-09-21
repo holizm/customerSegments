@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Segmen pelanggan",
-        "customer": "Pelanggan",
         "expiryDate": "Tanggal kedaluwarsa",
         "memberships": "Keanggotaan segmen",
         "rule": "Aturan",

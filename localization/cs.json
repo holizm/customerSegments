@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Zákaznické segmenty",
-        "customer": "Zákazník",
         "expiryDate": "Datum vypršení platnosti",
         "memberships": "Členství v segmentech",
         "rule": "Pravidlo",

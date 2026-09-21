@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "顧客セグメント",
-        "customer": "顧客",
         "expiryDate": "有効期限",
         "memberships": "セグメント所属",
         "rule": "ルール",

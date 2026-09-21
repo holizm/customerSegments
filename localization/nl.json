@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "Klantsegmenten",
-        "customer": "Klant",
         "expiryDate": "Vervaldatum",
         "memberships": "Segmentlidmaatschappen",
         "rule": "Regel",

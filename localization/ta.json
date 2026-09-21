@@ -1,7 +1,6 @@
 {
     "common": {
         "customerSegments": "வாடிக்கையாளர் பிரிவுகள்",
-        "customer": "வாடிக்கையாளர்",
         "expiryDate": "காலாவதி தேதி",
         "memberships": "பிரிவு உறுப்பினர்கள்",
         "rule": "விதி",
