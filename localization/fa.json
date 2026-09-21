@@ -1,13 +1,9 @@
 {
     "common": {
         "customerSegments": "بخش‌بندی مشتریان",
-        "expiryDate": "تاریخ انقضا",
         "memberships": "اعضای بخش‌ها",
-        "rule": "قاعده",
         "segment": "بخش مشتریان",
         "segments": "بخش‌های مشتریان"
     },
-    "panel": {
-        "assignedDate": "تاریخ تخصیص"
-    }
+    "panel": {}
 }

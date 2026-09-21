@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Customer segments",
-        "expiryDate": "Expiry date",
         "memberships": "Segment memberships",
-        "rule": "Rule",
         "segment": "Customer segment"
     },
-    "panel": {
-        "assignedDate": "Assigned date"
-    }
+    "panel": {}
 }

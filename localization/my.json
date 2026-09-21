@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "ဖောက်သည် အုပ်စုများ",
-        "expiryDate": "သက်တမ်းကုန်ရက်",
         "memberships": "အုပ်စု အဖွဲ့ဝင်မှုများ",
-        "rule": "စည်းမျဉ်း",
         "segment": "ဖောက်သည် အုပ်စု"
     },
-    "panel": {
-        "assignedDate": "သတ်မှတ်သည့်ရက်"
-    }
+    "panel": {}
 }

@@ -7,7 +7,7 @@ import Form from './form'
 const headers = <>
     <th start>customerSegmentsSegment</th>
     <th>customerSegmentsCode</th>
-    <th>customerSegmentsRule</th>
+    <th>coreRule</th>
     <th>stateMachinesState</th>
 </>
 

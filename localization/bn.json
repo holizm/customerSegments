@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "গ্রাহক বিভাগসমূহ",
-        "expiryDate": "মেয়াদ শেষের তারিখ",
         "memberships": "বিভাগের সদস্যপদসমূহ",
-        "rule": "নিয়ম",
         "segment": "গ্রাহক বিভাগ"
     },
-    "panel": {
-        "assignedDate": "বরাদ্দের তারিখ"
-    }
+    "panel": {}
 }

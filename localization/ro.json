@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Segmente de clienți",
-        "expiryDate": "Data expirării",
         "memberships": "Apartenențe la segmente",
-        "rule": "Regulă",
         "segment": "Segment de clienți"
     },
-    "panel": {
-        "assignedDate": "Data atribuirii"
-    }
+    "panel": {}
 }

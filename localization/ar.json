@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "شرائح العملاء",
-        "expiryDate": "تاريخ الانتهاء",
         "memberships": "عضويات الشرائح",
-        "rule": "القاعدة",
         "segment": "شريحة العملاء"
     },
-    "panel": {
-        "assignedDate": "تاريخ التعيين"
-    }
+    "panel": {}
 }

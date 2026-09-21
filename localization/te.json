@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "వినియోగదారుల విభాగాలు",
-        "expiryDate": "గడువు తేదీ",
         "memberships": "విభాగ సభ్యత్వాలు",
-        "rule": "నియమం",
         "segment": "వినియోగదారుల విభాగం"
     },
-    "panel": {
-        "assignedDate": "కేటాయించిన తేదీ"
-    }
+    "panel": {}
 }

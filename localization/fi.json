@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Asiakassegmentit",
-        "expiryDate": "Voimassaolon päättymispäivä",
         "memberships": "Segmenttijäsenyydet",
-        "rule": "Sääntö",
         "segment": "Asiakassegmentti"
     },
-    "panel": {
-        "assignedDate": "Määrityspäivä"
-    }
+    "panel": {}
 }

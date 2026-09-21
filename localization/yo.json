@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Àwọn ẹ̀ka oníbàárà",
-        "expiryDate": "Ọjọ́ ìparí",
         "memberships": "Àwọn ọmọ ẹgbẹ́ ẹ̀ka",
-        "rule": "Òfin",
         "segment": "Ẹ̀ka oníbàárà"
     },
-    "panel": {
-        "assignedDate": "Ọjọ́ ìyàn"
-    }
+    "panel": {}
 }

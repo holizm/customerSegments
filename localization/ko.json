@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "고객 세그먼트",
-        "expiryDate": "만료일",
         "memberships": "세그먼트 소속",
-        "rule": "규칙",
         "segment": "고객 세그먼트"
     },
-    "panel": {
-        "assignedDate": "할당일"
-    }
+    "panel": {}
 }

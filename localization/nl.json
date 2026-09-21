@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Klantsegmenten",
-        "expiryDate": "Vervaldatum",
         "memberships": "Segmentlidmaatschappen",
-        "rule": "Regel",
         "segment": "Klantsegment"
     },
-    "panel": {
-        "assignedDate": "Toewijzingsdatum"
-    }
+    "panel": {}
 }

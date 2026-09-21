@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Ügyfélszegmensek",
-        "expiryDate": "Lejárati dátum",
         "memberships": "Szegmenstagságok",
-        "rule": "Szabály",
         "segment": "Ügyfélszegmens"
     },
-    "panel": {
-        "assignedDate": "Hozzárendelés dátuma"
-    }
+    "panel": {}
 }

@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Mga segment ng customer",
-        "expiryDate": "Petsa ng pag-expire",
         "memberships": "Mga pagiging kasapi sa segment",
-        "rule": "Panuntunan",
         "segment": "Segment ng customer"
     },
-    "panel": {
-        "assignedDate": "Petsa ng pagtatalaga"
-    }
+    "panel": {}
 }

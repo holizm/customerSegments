@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Segmentos de clientes",
-        "expiryDate": "Fecha de vencimiento",
         "memberships": "Pertenencias a segmentos",
-        "rule": "Regla",
         "segment": "Segmento de clientes"
     },
-    "panel": {
-        "assignedDate": "Fecha de asignación"
-    }
+    "panel": {}
 }

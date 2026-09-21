@@ -7,8 +7,8 @@ import Form from './form'
 const headers = <>
     <th start>coreCustomer</th>
     <th>customerSegmentsSegment</th>
-    <th>customerSegmentsAssignedDate</th>
-    <th>customerSegmentsExpiryDate</th>
+    <th>coreAssignedDate</th>
+    <th>coreExpiryDate</th>
 </>
 
 const row = item => <>

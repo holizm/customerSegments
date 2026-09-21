@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Segmen pelanggan",
-        "expiryDate": "Tarikh luput",
         "memberships": "Keahlian segmen",
-        "rule": "Peraturan",
         "segment": "Segmen pelanggan"
     },
-    "panel": {
-        "assignedDate": "Tarikh penetapan"
-    }
+    "panel": {}
 }

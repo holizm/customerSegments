@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Makundi ya wateja",
-        "expiryDate": "Tarehe ya kuisha",
         "memberships": "Uanachama wa makundi",
-        "rule": "Kanuni",
         "segment": "Kundi la wateja"
     },
-    "panel": {
-        "assignedDate": "Tarehe ya kupewa"
-    }
+    "panel": {}
 }

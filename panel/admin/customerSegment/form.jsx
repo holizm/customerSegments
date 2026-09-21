@@ -14,7 +14,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='customerSegmentsRule'
+        placeholder='coreRule'
         property='rule'
     />
     <DateTime

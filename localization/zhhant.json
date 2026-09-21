@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "客戶細分",
-        "expiryDate": "到期日期",
         "memberships": "細分成員關係",
-        "rule": "規則",
         "segment": "客戶細分"
     },
-    "panel": {
-        "assignedDate": "指派日期"
-    }
+    "panel": {}
 }

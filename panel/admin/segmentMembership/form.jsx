@@ -16,12 +16,12 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='customerSegmentsAssignedDate'
+        placeholder='coreAssignedDate'
         property='assignedDate'
         required
     />
     <DateTime
-        placeholder='customerSegmentsExpiryDate'
+        placeholder='coreExpiryDate'
         property='expiryDate'
     />
 </>

@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Rukunonin abokan ciniki",
-        "expiryDate": "Ranar ƙarewa",
         "memberships": "Mambobin rukuni",
-        "rule": "Ƙa’ida",
         "segment": "Rukunin abokan ciniki"
     },
-    "panel": {
-        "assignedDate": "Ranar sanyawa"
-    }
+    "panel": {}
 }

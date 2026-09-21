@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Сегменти клієнтів",
-        "expiryDate": "Дата завершення",
         "memberships": "Участь у сегментах",
-        "rule": "Правило",
         "segment": "Сегмент клієнтів"
     },
-    "panel": {
-        "assignedDate": "Дата призначення"
-    }
+    "panel": {}
 }

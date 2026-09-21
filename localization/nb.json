@@ -1,12 +1,8 @@
 {
     "common": {
         "customerSegments": "Kundesegmenter",
-        "expiryDate": "Utløpsdato",
         "memberships": "Segmentmedlemskap",
-        "rule": "Regel",
         "segment": "Kundesegment"
     },
-    "panel": {
-        "assignedDate": "Tildelingsdato"
-    }
+    "panel": {}
 }
